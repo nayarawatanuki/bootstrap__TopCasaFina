@@ -1,0 +1,1 @@
+import "./components/navbar/animation-fix.js";
