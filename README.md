@@ -16,8 +16,8 @@
 
 ## :pencil: Descrição do Projeto
 O projeto **[TopCasaFina - Arquitetura](https://nayarawatanuki.github.io/bootstrap__TopCasaFina/)**, é uma simples proposta de uma página para a construtora TopCasaFina, contruída em `html`, `css` e `javascript`. 
-Esse projeto contém o objetivo de aprender a manipular atributos e funções, aplicando boas práticas com `javascript`. 
-</br>Desenvolvido para o curso de **JAVASCRIPT PARA WEB: CRIE PÁGINAS DINÂMICAS** da plataforma [Alura](https://www.alura.com.br/).
+Esse projeto contém o objetivo de aprofundar conhecimentos do framework Bootstrap. 
+</br>Desenvolvido para o curso de **BOOTSTRAP: CRIAÇÃO DE UMA SINGLE-PAGE RESPONSIVA** da plataforma [Alura](https://www.alura.com.br/).
 
 </br>
 
